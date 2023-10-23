@@ -119,6 +119,17 @@ const Chat = () => {
 
                 'To learn more about the scheme and to apply, please visit [website address].'
             SettingInput(initialUserInput)
+        } else if (routeParam === 'chattisgarh') {
+            const initialUserInput = 'Write a notification for a new scheme for Indian farmers in chattisgarh.' +
+
+                '**Title:** New scheme for farmers in chattisgarh' +
+
+                '**Body:**' +
+
+                'The Government of chattisgarh has released a new scheme for farmers called the [scheme name]. This scheme provides [benefits of the scheme].' +
+
+                'To learn more about the scheme and to apply, please visit [website address].'
+            SettingInput(initialUserInput)
         }
 
 
