@@ -62,8 +62,8 @@ const Chat = () => {
 
         // When the component loads, send an initial prompt based on the routeParam
         if (routeParam === 'madhyaPradesh') {
-            const initialUserInput = 'Write a notification for a new scheme for Indian farmers in Madhya Pradesh.' +
-                '**Title:** New scheme for farmers in Madhya Pradesh' +
+            const initialUserInput = 'Write some new scheme for Indian farmers in Madhya Pradesh.' +
+                '**Title:** New schemes for farmers in Madhya Pradesh' +
                 '**Body:**' +
                 'The Government of Madhya Pradesh has released a new scheme for farmers called the [scheme name]. This scheme provides [benefits of the scheme].' +
                 'To learn more about the scheme and to apply, please visit [website address].';
