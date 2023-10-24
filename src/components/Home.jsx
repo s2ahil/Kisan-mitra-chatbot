@@ -21,7 +21,7 @@ const Home = () => {
                 <Card name='Chatbot for Gujarat' desc='Tells you about schemes in gujarat' image='https://sheatwork.com/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-05-at-10.58.48.jpeg' tag1='Gujarat' tag2='Farmers scheme' btnLink='/chat/Gujarat'></Card>
                 <Card name='Chatbot for UttarPradesh' desc='Tells you about schemes in UttarPradesh' image='https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/2/2022/04/09140033/Agriculture-Schemes-in-Uttar-Pradesh-01.png' tag1='UP' tag2='Farmers scheme' btnLink='/chat/UttarPradesh'></Card>
                 <Card name='Chatbot for Punjab' desc='Tells you about schemes in Punjab' image='https://i0.wp.com/www.governmentschemes.org/wp-content/uploads/2021/08/punjab.jpg?w=613&ssl=1' tag1='Punjab' tag2='Farmers scheme' btnLink='/chat/Punjab'></Card>
-                <Card name='Chatbot for Chattisgarh' desc='Tells you about schemes in Chattisgarh' image='https://d3l793awsc655b.cloudfront.net/blog/wp-content/uploads/2023/03/Rajiv-Gandhi-Kisan-Nyay-Yojana-1.jpg' tag1='Chattisgarh' tag2='Farmers scheme' btnLink='/chat/Chattisgarh'></Card>
+                <Card name='Chatbot for Chattisgarh' desc='Tells you about schemes in Chattisgarh' image='https://d3l793awsc655b.cloudfront.net/blog/wp-content/uploads/2023/03/Rajiv-Gandhi-Kisan-Nyay-Yojana-1.jpg' tag1='CG' tag2='Farmers scheme' btnLink='/chat/Chattisgarh'></Card>
             
             </div>
 
