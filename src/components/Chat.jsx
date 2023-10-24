@@ -72,7 +72,7 @@ const Chat = () => {
             SettingInput(initialUserInput)
 
         } else if (routeParam === 'India') {
-            const initialUserInput = 'Write a notification for a new scheme for Indian farmers.' +
+            const initialUserInput = 'Write some new schemes for Indian farmers.' +
 
                 '** Title:** New scheme for Indian farmers' +
 
@@ -85,7 +85,7 @@ const Chat = () => {
             SettingInput(initialUserInput)
 
         } else if (routeParam === 'Punjab') {
-            const initialUserInput = 'Write a notification for a new scheme for Indian farmers in Punjab.'
+            const initialUserInput = 'Write some new schemes for Indian farmers in Punjab.'
 
                 + '**Title:** New scheme for farmers in Punjab'
 
@@ -96,7 +96,7 @@ const Chat = () => {
                 + 'To learn more about the scheme and to apply, please visit [website address].'
             SettingInput(initialUserInput)
         } else if (routeParam === 'UttarPradesh') {
-            const initialUserInput = 'Write a notification for a new scheme for Indian farmers in Uttar Pradesh.' +
+            const initialUserInput = 'Write some new schemes for Indian farmers in Uttar Pradesh.' +
 
                 '**Title:** New scheme for farmers in Uttar Pradesh' +
 
@@ -109,7 +109,7 @@ const Chat = () => {
             SettingInput(initialUserInput)
 
         } else if (routeParam === 'Gujarat') {
-            const initialUserInput = 'Write a notification for a new scheme for Indian farmers in Gujarat.' +
+            const initialUserInput = 'Write some new schemes for Indian farmers in Gujarat.' +
 
                 '**Title:** New scheme for farmers in Gujarat' +
 
@@ -120,7 +120,7 @@ const Chat = () => {
                 'To learn more about the scheme and to apply, please visit [website address].'
             SettingInput(initialUserInput)
         } else if (routeParam === 'chattisgarh') {
-            const initialUserInput = 'Write a notification for a new scheme for Indian farmers in chattisgarh.' +
+            const initialUserInput = 'Write some new schemes for Indian farmers in chattisgarh.' +
 
                 '**Title:** New scheme for farmers in chattisgarh' +
 
