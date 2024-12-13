@@ -147,7 +147,7 @@ const Chat = () => {
                         </svg>
                     </Link>
                 </div>
-                <h1 className="flex-grow mb-4 text-4xl font-bold leading-none tracking-tight text-gray-900 text-center md:text-5xl lg:text-6xl dark:text-white">Kisan Mitra chatbot</h1>
+                <h1 className="flex-grow mb-4 text-4xl font-bold leading-none tracking-tight text-gray-900 text-center md:text-5xl lg:text-6xl dark:text-white">Ask your query</h1>
             </div>
 
 
