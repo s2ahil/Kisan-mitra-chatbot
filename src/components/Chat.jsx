@@ -72,15 +72,7 @@ const Chat = () => {
             SettingInput(initialUserInput)
 
         } else if (routeParam === 'India') {
-            const initialUserInput = 'Write some new schemes for Indian farmers.' +
-
-                '** Title:** New scheme for Indian farmers' +
-
-                '** Body:**' +
-
-                ' The Government of India has released a new scheme for farmers called the[schemename].This scheme provides[benefits of the scheme].' +
-
-                'To learn more about the scheme and to apply, please visit[website address].'
+            const initialUserInput = 'Help me resolve my query' 
                 ;
             SettingInput(initialUserInput)
 
