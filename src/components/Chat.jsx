@@ -72,7 +72,7 @@ const Chat = () => {
             SettingInput(initialUserInput)
 
         } else if (routeParam === 'India') {
-            const initialUserInput = 'Help me resolve my query' 
+            const initialUserInput = 'Help me resolve my query regarding schemes' 
                 ;
             SettingInput(initialUserInput)
 
